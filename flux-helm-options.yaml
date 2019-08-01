@@ -1,0 +1,6 @@
+---
+helmOperator:
+  create: true
+  createCRD: false
+git:
+  url: "git@github.com:BoseCorp/ai-data-flux.git"
